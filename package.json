@@ -15,9 +15,6 @@
     },
     "author": "Luthfi Putra Mauludy",
     "license": "ISC",
-    "dependencies": {
-        "winston": "3.7.2"
-    },
     "devDependencies": {
         "@babel/preset-env": "^7.18.10",
         "babel-jest": "^28.1.3",
