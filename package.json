@@ -1,7 +1,7 @@
 {
-    "name": "belajar-nodejs-logging",
+    "name": "belajar-nodejs-unit-test",
     "version": "1.0.0",
-    "description": "Belajar NodeJS Logging",
+    "description": "Belajar NodeJS Unit Test",
     "main": "./src/index.js",
     "type": "module",
     "scripts": {
